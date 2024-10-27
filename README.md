@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Output: 
+
+![Output](https://github.com/user-attachments/assets/c56dd7ad-b263-4dbd-be2e-3d83d30f53ec)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
